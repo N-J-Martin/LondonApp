@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">LondonApp</string>
+    <string name="hyde_park">Hyde Park</string>
+    <string name="st_james_park">St James\'s Park</string>
+    <string name="regents_park">Regent\'s Park</string>
+    <string name="kensington_gardens">Kensington Gardens</string>
+    <string name="st_pauls">St Pauls Cathedral</string>
+    <string name="gherkin">The Gherkin</string>
+    <string name="shard">The Shard</string>
+    <string name="leadenhall_market">Leadenhall Market</string>
+    <string name="royal_naval_college">The Old Royal Naval College</string>
+    <string name="notting_hill">Notting Hill</string>
+    <string name="paddington">Paddington Station</string>
+    <string name="british_museum">The British Museum</string>
+    <string name="madame_tussauds">Madame Tussauds</string>
+    <string name="transport_museum">London Transport Museum</string>
 </resources>
